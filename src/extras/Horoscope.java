@@ -26,8 +26,6 @@ public class Horoscope {
 		} else if (starsign.equals("Libra")) {
 			JOptionPane.showMessageDialog(null,
 					"As buried problems in your relationships are exposed today, youll have to deal with them properly.");
-		} else if (starsign.equals("Scorpio")) {
-
-		}
+		} 
 	}
 }
