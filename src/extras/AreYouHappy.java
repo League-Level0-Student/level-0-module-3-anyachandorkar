@@ -10,7 +10,7 @@ public class AreYouHappy {
 		} else {
 			String want = JOptionPane.showInputDialog("Do you want to be happy?");
 			if (want.equals("yes")) {
-				JOptionPane.showMessageDialog(null, "Change something");
+				JOptionPane.showMessageDialog(null, "Change something.");
 			} else {
 				JOptionPane.showMessageDialog(null, "Keep doing whatever you're doing.");
 			}
